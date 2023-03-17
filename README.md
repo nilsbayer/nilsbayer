@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### My name is Nils and I am a student in data science at Aalborg University in Denmark. 👨‍💻
-# I enjoy learning how to use Machine Learning to create business value and implement it in web applications.
+#### I enjoy learning how to use Machine Learning to create business value and implement it in web applications.
 
 <!--
 **nilsbayer/nilsbayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
