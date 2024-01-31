@@ -7,11 +7,6 @@
 - implement ML into web applications
 
 
-<video autoplay loop muted>
-  <source src="https://www.youtube.com/watch?v=W0KdKhTeVKM" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 <!--
 **nilsbayer/nilsbayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
