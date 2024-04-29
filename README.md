@@ -1,10 +1,19 @@
 ## Hi there 👋
 
-### My name is Nils and I am a student in data science at Aalborg University in Denmark. 👨‍💻
+### My name is Nils and I am a student in my last year studying data science at Aalborg University. 👨‍💻
 ### I enjoy learning how to ...
-- apply Machine Learning
-- create business value by doing so
-- implement ML into web applications
+... apply Machine Learning
+... create business value by doing so
+... implement ML into web applications
+
+### Tech I like to use
+- Python
+- JavaScript
+- Flask
+- React.js
+- MongoDB
+- sentence-transformers (sBERT)
+- LLMs & LangChain
 
 
 <!--
