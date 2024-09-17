@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Nils and I am a student in my last year studying data science at Aalborg University. 👨‍💻
+### My name is Nils 👨‍💻
 ### I enjoy learning how to ...
 ... apply Machine Learning
 ... create business value by doing so
